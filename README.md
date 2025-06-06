@@ -1,1 +1,5 @@
-# javascript-workspace
+# JavaScript - ES6
+-------
+## javascript-workspace
+-------
+
